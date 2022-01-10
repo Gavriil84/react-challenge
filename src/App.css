@@ -1,0 +1,16 @@
+#input-form {
+    max-width: 80%;
+    background-color: white;
+    border-radius: 8px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+#output-form {
+    max-width: 80%;
+    background-color: white;
+    border-radius: 8px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
